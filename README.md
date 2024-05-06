@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhatemwa-x1
+- 👋 Hi, I’m @dhatemwa-abdulwahab
 - 👀 I’m interested in Computer Science and AI
 - 🌱 I’m currently learning Computer science 
 - 💞️ I’m looking to collaborate on any amazing project
